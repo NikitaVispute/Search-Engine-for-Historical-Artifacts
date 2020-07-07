@@ -4,7 +4,7 @@ Technology: Apache Nutch, python, java servlets, web UI (HTML, CSS, jQuery, java
 
 Worked in a team of 5 members (Please check report for details about individual member contribution)
 
-1. I was responsible for the crawling process of approx. 20,000 webpages which is used for creating the index of URLS.
+1. I was responsible for the crawling process of approx. 200,000 webpages which is used for creating the index of URLS.
 
 2. Crawling was done using both Apache Nutch with Solr indexer as well using Python web crawler scripts.
 
