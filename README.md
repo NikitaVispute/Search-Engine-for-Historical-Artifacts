@@ -1,4 +1,4 @@
-# Search-Engine-for-Historical-Aritfacts
+# Search-Engine-for-Historical-Artifacts
 
 Technology: Apache Nutch, python, java servlets, web UI (HTML, CSS, jQuery, javaScript, Apache Tomcat server)
 
